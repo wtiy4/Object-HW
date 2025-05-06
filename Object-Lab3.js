@@ -12,7 +12,7 @@ const movies = [{
     },
     {
         title: "Interstellar",
-        director: "Christopher Nolan",``
+        director: "Christopher Nolan",
         year: 2014,
         rating: 8.6,
     },
